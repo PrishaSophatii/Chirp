@@ -11,3 +11,4 @@ semantria-sdk-3x==3.8.80
 six==1.10.0
 TwitterAPI==2.4.3
 TwitterSearch==1.0.1
+new new
